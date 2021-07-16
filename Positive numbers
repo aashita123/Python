@@ -1,0 +1,5 @@
+myList=[1,-5,15,-9]
+print("All positive numbers of the range : ")
+for i in (myList):
+    if i >= 0:
+	    print(i, end = " ")
